@@ -16,8 +16,6 @@ This project focuses on:
 ---
 
 
-
-
 ##  Database Structure
 
 The system consists of three main tables:
@@ -79,4 +77,4 @@ The file includes solutions for:
 -  Retrieve all available vehicles of a specific type (e.g. cars).
 -  Find the total number of bookings for each vehicle and display only those vehicles that have more than 2 bookings.
 
-Each query is written based on the designed schema and matches the expected outputs provided in the assignment.
+Each query is written based on the designed schema and matches the expected outputs provided in the assignments.
